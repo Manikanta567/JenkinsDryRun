@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>Jenkins_Dry_Run</members>
+        <members>Jenkins_Dry_Run_1</members>
         <name>ApexPage</name>
     </types>
     <version>35.0</version>
