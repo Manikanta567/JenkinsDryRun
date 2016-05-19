@@ -79,7 +79,7 @@
 			  maxPoll="${sf.maxPoll}"
 			  pollWaitMillis="${sf.pollWaitMillis}"
 			  retrieveTarget="retrieveUnpackaged"
-			  unpackaged="unpackaged/package.xml"/>
+			  unpackaged="src/package.xml"/>
     </target>
 	
 
